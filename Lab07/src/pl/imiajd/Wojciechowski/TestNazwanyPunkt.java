@@ -25,7 +25,7 @@ public class TestNazwanyPunkt {
     System.out.println(prostokat.getPerimeter());
 
 
-
+^^^^^Main od Adriana^^^^
 
 
 
